@@ -1,0 +1,31 @@
+.poem {
+    width: 30rem;
+    height: 100%;
+    border: none;
+    margin: 40px;
+    margin-top: 20px;
+    padding: 10px;
+    border-radius: 10px;
+    display: flex;
+    background-color: #330817;
+    color: #FFE0DA;
+    border-top: 1px solid #FFE0DA;
+}
+
+.poem:hover {
+    background-color: #57132a;
+}
+
+.content {
+    margin: 6px;
+    max-width: 100%;
+    border: 3px solid green,
+}
+
+.author {
+    margin: 10px;
+}
+
+.poemDate {
+    margin: 2px;
+}
