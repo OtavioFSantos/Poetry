@@ -1,0 +1,15 @@
+.navbar {
+    height: 100%;
+    width: 100%;
+    position: fixed;
+    max-height: 50px;
+    background-color: #330817;
+    z-index: 2;
+}
+
+.title {
+    text-align: center;
+    margin-top: 13px;
+    margin-left: 40px;
+    color: #FFE0DA;
+}
